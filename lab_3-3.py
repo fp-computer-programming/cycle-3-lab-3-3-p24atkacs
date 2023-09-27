@@ -18,4 +18,3 @@ random_int = random.randint(1, 100)
 random.seed(42)
 
 even_random = random.randrange(0, 101, 2)
-
